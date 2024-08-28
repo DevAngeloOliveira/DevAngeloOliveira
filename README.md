@@ -25,4 +25,4 @@ A comprehensive project where I integrate the Valorant API with a modern front-e
 
 ## How to Reach Me
 - GitHub: [DevAngeloOliveira](https://github.com/DevAngeloOliveira)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gabriel-%C3%A2ngelo-b71565267/)
+- LinkedIn: [Gabriel Ângelo](https://www.linkedin.com/in/gabriel-%C3%A2ngelo-b71565267/)
