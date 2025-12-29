@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Gabriel (@DevAngeloOliveira)
 
 ## About Me
-- 💻 **Full Stack Software Engineer & DevOps Specialist** focused on **scalable systems, backend architecture, and modern web applications**.
-- 🎓 **BSc in Computer Engineering and Computer Science**, with **Postgraduate studies and an MSc in Software Engineering and Software Quality**.
-- 🏗️ Specialized in **Software Engineering, Software Architecture, and DevOps practices**.
-- 👀 Main stack: **Python**, **Node.js**, **Java**, and **PHP**.
-- ☁️ Strong experience with **APIs**, **microservices**, **cloud-native architectures**, and **CI/CD pipelines**.
-- 💞️ Open to collaborating on **full stack systems**, **distributed architectures**, and **DevOps-oriented projects**.
+- 🎓 **Bachelor’s Degree in Computer Science**
+- 💻 **Java • Python • Node.js**
+- 📚 **Postgraduate in Software Engineering and Software Quality**
+- 🏗️ **DevOps • Software Engineering / Architecture**
+- ☁️ Focused on **scalable systems**, **clean architecture**, **APIs**, and **cloud-native solutions**
+- 💞️ Open to collaborating on **backend and full stack systems**, **distributed architectures**, and **DevOps-oriented projects**
 
 ## Featured Projects
 
@@ -18,33 +18,32 @@ Key highlights:
 - 💳 Payments and availability control  
 - 🧪 Unit & E2E tests with Jest & Supertest  
 - 🛠️ Clean, modular architecture with Prisma ORM and Docker support  
-See it 👉 https://github.com/DevAngeloOliveira/LoCar :contentReference[oaicite:0]{index=0}
+Repository 👉 https://github.com/DevAngeloOliveira/LoCar
 
 ### 🔹 **Library Java MVC**
 An **enterprise-grade library management system** implemented in **Java 11** with MVC architecture, featuring:
 - 📚 REST API with role-based authentication and access control  
 - 🗄️ SQLite database integration  
 - 🧩 Clean separation of concerns (Model-View-Controller)  
-Useful for demonstrating **backend Java fundamentals, authentication systems, and structured application design**.  
-Repository 👉 https://github.com/DevAngeloOliveira/library-java-mvc :contentReference[oaicite:1]{index=1}
+Useful for demonstrating **Java backend fundamentals, authentication systems, and structured application design**.  
+Repository 👉 https://github.com/DevAngeloOliveira/library-java-mvc
 
 ### 🔹 **pw-estoque_pro — Web Inventory System**
-A **web inventory/pro warehousing system** (Programação WEB final project) showcasing:
+A **web inventory / stock management system** showcasing:
 - 📦 CRUD operations and **product stock control**
-- 💼 Typical web app layers and patterns used in real production-like scenarios
-- 📄 Full project structure, data handling and UI templates  
-Repository 👉 https://github.com/DevAngeloOliveira/pw-estoque_pro :contentReference[oaicite:2]{index=2}
+- 💼 Typical web application layers and business rules
+- 📄 Full project structure, data handling, and UI templates  
+Repository 👉 https://github.com/DevAngeloOliveira/pw-estoque_pro
 
 ## Other Noteworthy Projects
-- **Secure Laravel API (Sanctum)** — REST API with token-based auth and clean separation of concerns.
-- **React Native + SQL Server Integration** — Mobile app with full CRUD operations connecting to SQL Server.
+- **Secure Laravel API (Sanctum)** — REST API with token-based authentication and clean separation of concerns.
+- **React Native + SQL Server Integration** — Mobile application with full CRUD operations connected to SQL Server.
 
 ## Technical Skills
-- **Languages**: Python, Java, PHP, JavaScript, TypeScript  
-- **Backend**: Node.js, Laravel, REST APIs, Microservices  
-- **Frontend**: React, Next.js, Tailwind CSS  
+- **Languages**: Java, Python, JavaScript, TypeScript  
+- **Backend**: Node.js, REST APIs, MVC, Microservices  
 - **DevOps**: Docker, Git, CI/CD Pipelines  
-- **Databases**: SQL Server, MySQL, PostgreSQL, SQLite  
+- **Databases**: PostgreSQL, MySQL, SQL Server, SQLite  
 - **Concepts**: Clean Code, SOLID, Software Architecture, DevOps Culture
 
 ## How to Reach Me
