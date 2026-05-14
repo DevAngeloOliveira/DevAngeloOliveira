@@ -25,7 +25,8 @@
 ## About Me
 
 - 🎓 Bachelor’s Degree in Computer Science
-- 📚 Postgraduate in Software Engineering and Software Quality
+- 🎓 Bachelor’s Degree in Computer Engineering
+- 📚 Postgraduate Degree in Software Engineering and Software Quality
 - 💻 Full Stack Developer with strong focus on backend, APIs, and software architecture
 - 🏗️ Interested in Clean Architecture, SOLID, modular systems, distributed systems, and DevOps culture
 - ☁️ Experienced with Docker, CI/CD, relational databases, REST APIs, and cloud-oriented deployments
